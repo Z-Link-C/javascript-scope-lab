@@ -1,5 +1,5 @@
 // Write your solution in this file!
-let burgers = ['Hamburger', 'Cheeseburger'];
+burgers = ['Hamburger', 'Cheeseburger'];
 var featuredDrink = 'Strawberry Milkshake';
 
 function addBurger() {
